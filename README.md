@@ -33,10 +33,10 @@ This repository is designed to demonstrate:
 
 | Week | Day | Topic | Status |
 |---|---|---|---|
-| Week 1 | Day 1 | AWS EC2 Web Server Deployment | ✅ Complete |
-| Week 1 | Day 2 | AWS vs Azure VM Architecture Comparison | ✅ Complete |
-| Week 1 | Day 3 | AWS Networking & Security Group Analysis | ✅ Complete |
-| Week 1 | Day 4 | AWS IAM & Threat Modeling | ✅ Complete |
+| Week 1 | Day 1 | AWS EC2 Web Server Deployment 
+| Week 1 | Day 2 | AWS vs Azure VM Architecture Comparison
+| Week 1 | Day 3 | AWS Networking & Security Group Analysis
+| Week 1 | Day 4 | AWS IAM & Threat Modeling 
 
 ---
 
